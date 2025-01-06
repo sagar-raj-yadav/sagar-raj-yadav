@@ -73,6 +73,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sagar-raj-yadav/BAHUBALI2550/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sagar-raj-yadav/sagar-raj-yadav/output/snake.svg" alt="Snake animation" />
 
 ###
