@@ -1,29 +1,31 @@
 name: Generate Snake Animation
 
 on:
+  push:
+    branches:
+      - main  # Tumhari default branch ka naam, agar 'main' hai toh yahi rahega
+
   schedule:
-    # Runs at 12am UTC every day
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Har din raat 12 baje animation ko regenerate karega
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    steps:
-      # Step 1: Checkout the repository
-      - name: Checkout Repository
-        uses: actions/checkout@v3
 
-      # Step 2: Generate the Snake
-      - name: Generate Snake
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
+
+      - name: Generate Snake Animation
         uses: Platane/snk@v2
         with:
-          github_user_name: "sagar-raj-yadav"
+          github_user_name: sagar-raj-yadav  # Tumhara GitHub username
           outputs: dist/snake.svg
 
-      # Step 3: Commit the Snake Animation
-      - name: Commit and Push
-        uses: stefanzweifel/git-auto-commit-action@v4
+      - name: Push Snake Animation to Main Branch
+        uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
-          commit_message: "Generated Snake Animation 🐍"
-          file_pattern: dist/snake.svg
+          target_branch: main  # File main branch par push karega
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
