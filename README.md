@@ -35,10 +35,6 @@
 
 ---
 
-<h2 align="center">🎮 Contribution Snake</h2>
-<div align="center">
-  ![Snake animation](https://github.com/sagar-raj-yadav/sagar-raj-yadav/blob/output/snake.svg)
-</div>
 
 ---
 
