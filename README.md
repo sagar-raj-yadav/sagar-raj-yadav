@@ -12,9 +12,12 @@
 ---
 
 ### 🌟 About Me:
-- 🔭 **Currently working on:** Web and app development projects using **React Native, MERN Stack, Python, and Express.js.**
-- 🌱 **Learning next:** Blockchain and advanced React features.
-- 💬 **Ask me about:** **Frontend, Backend, App Development, System Design**, and technologies like **JavaScript, TypeScript, React, React Native, Express.js, MongoDB, SQL, and Postgres.**
+- 🔭 **Currently working on:** Web and app development projects using **React Native**, **MERN Stack**, **Python**, and **Express.js**.
+- 🌱 **Learning next:** **Blockchain** and advanced **React** features.
+- 💬 **Ask me about:** **Frontend**, **Backend**, **App Development**, **System Design**, and technologies like:
+  - **Languages:** JavaScript, TypeScript, Python, C, C++
+  - **Libraries/Frameworks:** React, React Native, Express.js, Django
+  - **Databases:** MongoDB, SQL, Postgres
 - ⚡ **Fun fact:** I turn coffee into quality code ☕
 
 ---
