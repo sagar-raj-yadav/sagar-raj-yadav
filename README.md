@@ -64,3 +64,4 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sagar-raj-yadav&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile views" />
 </div>
+![Snake animation](https://github.com/sagar-raj-yadav/sagar-raj-yadav/blob/output/snake.svg)
