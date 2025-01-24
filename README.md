@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=37BCF7&center=true&vCenter=true&width=450&lines=Frontend+%7C+Backend+%7C+App+Developer;Always+Learning+%7C+Problem+Solver+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing animation" />
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sagar-raj-yadav&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile views" />
+</div>
+
 ---
 
 ### 🌟 About Me:
@@ -33,7 +37,7 @@
 
 <h2 align="center">🎮 Contribution Snake</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sagar-raj-yadav/sagar-raj-yadav/output/snake.svg" alt="Snake animation" />
+  ![Snake animation](https://github.com/sagar-raj-yadav/sagar-raj-yadav/blob/output/snake.svg)
 </div>
 
 ---
@@ -56,14 +60,4 @@
 <h2 align="center">⚡ Fun Animations</h2>
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="200" alt="Coding gif" />
-</div>
-
----
-
-<h2 align="center">🌐 Visitors</h2>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sagar-raj-yadav&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile views" />
-</div>
-<div align="center">
-  <img src="https://github.com/sagar-raj-yadav/sagar-raj-yadav/blob/output/snake.svg" alt="Snake animation" />
 </div>
