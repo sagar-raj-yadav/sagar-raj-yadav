@@ -1,0 +1,29 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    # Runs at 12am UTC every day
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      # Step 1: Checkout the repository
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # Step 2: Generate the Snake
+      - name: Generate Snake
+        uses: Platane/snk@v2
+        with:
+          github_user_name: "sagar-raj-yadav"
+          outputs: dist/snake.svg
+
+      # Step 3: Commit the Snake Animation
+      - name: Commit and Push
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Generated Snake Animation 🐍"
+          file_pattern: dist/snake.svg
