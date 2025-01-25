@@ -20,6 +20,7 @@
   - **Databases:** MongoDB, SQL, Postgres
 - ⚡ **Fun fact:** I turn coffee into quality code ☕
 
+
 ---
 
 <h2 align="center">🚀 My Tech Stack</h2>
@@ -34,6 +35,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sagar-raj-yadav&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=sagar-raj-yadav&theme=radical" height="150" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-raj-yadav&layout=compact&theme=radical" height="150" alt="Top Languages" />
+</div>
+
+---
+
+<h2 align="center">📈 GitHub Activity</h2>
+<div align="center">
+  <img src="https://img.shields.io/github/commits-since/sagar-raj-yadav/sagar-raj-yadav/1.0.0?label=Total%20Commits&style=for-the-badge" alt="Total Commits" />
+  <img src="https://streak-stats.demolab.com?user=sagar-raj-yadav&theme=radical&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="Max Streak" />
 </div>
 
 ---
