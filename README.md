@@ -42,10 +42,11 @@
 <h2 align="center">📈 GitHub Activity</h2>
 <div align="center">
   <img src="https://img.shields.io/github/commits-since/sagar-raj-yadav/sagar-raj-yadav/1.0.0?label=Total%20Commits&style=for-the-badge" alt="Total Commits" />
-  <img src="https://streak-stats.demolab.com?user=sagar-raj-yadav&theme=radical&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="Max Streak" />
+  <img src="https://img.shields.io/github/commit-activity/y/sagar-raj-yadav/sagar-raj-yadav?style=for-the-badge" alt="Commits in the Last Year" />
+  <img src="https://img.shields.io/github/commit-activity/m/sagar-raj-yadav/sagar-raj-yadav?style=for-the-badge" alt="Commits in the Last Month" />
+  <img src="https://img.shields.io/github/commit-activity/w/sagar-raj-yadav/sagar-raj-yadav?style=for-the-badge" alt="Commits per Week" />
+  <img src="https://img.shields.io/github/last-commit/sagar-raj-yadav/sagar-raj-yadav?style=for-the-badge" alt="Most Recent Commit" />
 </div>
-
----
 
 <h2 align="center">💻 Connect with Me</h2>
 <div align="center">
