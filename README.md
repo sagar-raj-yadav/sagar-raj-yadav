@@ -33,7 +33,7 @@
 <h2 align="center">📊 My GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sagar-raj-yadav&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=sagar-raj-yadav&theme=radical" height="150" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=sagar-raj-yadav&theme=radical" height="140" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-raj-yadav&layout=compact&theme=radical" height="150" alt="Top Languages" />
 </div>
 
