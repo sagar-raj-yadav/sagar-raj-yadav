@@ -56,7 +56,7 @@
   <a href="mailto:sagarrajyadav2002@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=red&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://instagram.com/sagar__.yadav_" target="_blank">
+  <a href="https://instagram.com/sagar__.yadav_"  target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
